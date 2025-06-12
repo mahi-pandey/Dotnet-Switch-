@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Switch Statement\bin\Debug\net8.0\Switch Statement.exe
+C:\Users\Lenovo\source\repos\Switch Statement\bin\Debug\net8.0\Switch Statement.deps.json
+C:\Users\Lenovo\source\repos\Switch Statement\bin\Debug\net8.0\Switch Statement.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Switch Statement\bin\Debug\net8.0\Switch Statement.dll
+C:\Users\Lenovo\source\repos\Switch Statement\bin\Debug\net8.0\Switch Statement.pdb
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\Switch Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\Switch Statement.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\Switch Statement.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\Switch Statement.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\Switch Statement.dll
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\refint\Switch Statement.dll
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\Switch Statement.pdb
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\Switch Statement.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Switch Statement\obj\Debug\net8.0\ref\Switch Statement.dll

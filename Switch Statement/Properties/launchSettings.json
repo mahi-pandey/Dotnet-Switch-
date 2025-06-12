@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Switch Statement": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
